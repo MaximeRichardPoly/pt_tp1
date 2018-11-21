@@ -37,6 +37,8 @@ int main(int argc, char *argv[])
     {
     Pos_chaine =0; 
     Pos_chaine2 =i;   
+
+    
         for(j=0;j<espace;j++)
         {
             printf(" ");
